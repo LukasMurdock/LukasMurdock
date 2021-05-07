@@ -1,4 +1,8 @@
+![background-header](https://user-images.githubusercontent.com/3117665/117454212-e370ec00-af13-11eb-9dbd-14f05fd3e4ff.png)
+
 ### Hi there 👋
+
+I’m a Designer, Developer, and Marketer who has a deep passion for learning, personal growth, and development. Here’s the [long version](https://lukasmurdock.com/about#about-me).
 
 <!--
 **LukasMurdock/LukasMurdock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
