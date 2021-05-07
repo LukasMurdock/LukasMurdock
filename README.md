@@ -4,6 +4,9 @@
 
 I’m a Designer, Developer, and Marketer who has a deep passion for learning, personal growth, and development. Here’s the [long version](https://lukasmurdock.com/about#about-me).
 
+[![Top Langs](https://lukas-murdock-github-readme-stats.vercel.app/api/top-langs/?username=lukasmurdock&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **LukasMurdock/LukasMurdock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
